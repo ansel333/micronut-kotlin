@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.ansel
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, http-client, jax-rs, kotest, kotlin, kotlin-application, logback, netty-server, readme, shade, spring, spring-boot, yaml]
